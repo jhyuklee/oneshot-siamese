@@ -11,4 +11,5 @@ A test implementation of one-shot classification task using Siamese neural netow
 - Used Omniglot dataset
 - Same structure proposed in the paper, [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 - Only small amount of dataset was used for testing purpose.
+- Experimental setups and details might differ from the paper.
 
